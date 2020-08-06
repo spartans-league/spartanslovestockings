@@ -17,6 +17,6 @@
 
 像曾经守护塔伊耶托斯山脉一样，守护全世界爱丝者追逐美的权利。
 
-### 许可
+> 许可
 
 spartanslovestockings is [MIT licensed](./LICENSE).
