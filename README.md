@@ -1,4 +1,7 @@
 # spartanslovestockings
+
+<img src="https://i.ibb.co/gzZ6wLH/spartans.png" alt="spartans">
+
 > 我们的初衷
 
 众所周知，没有男人不爱丝，而我们，斯巴达人，作为男人中的男人，丝俨然已经变成流淌在我们血液中，如同氧气一般，不可或缺的存在。因此，身为雄性的标杆，我们有必要向全人类展示我们高高在上的品味。
