@@ -15,4 +15,8 @@
 
 ## 我们的愿景
 
-目之所及，丝遍天下。
+丝取代纸币成为硬通货，以丝易丝。
+
+### 许可
+
+spartanslovestockings is [MIT licensed](./LICENSE).
